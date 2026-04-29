@@ -17,6 +17,5 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 
 ## ⚡ A Bit About Me
 - ☕ Coffee person
-- 📖 Constantly learning and exploring new concepts
-- 🎌 Into anime — *Neon Genesis Evangelion* is my favorite
-- ⚡ I enjoy experimenting with new exploits and understanding how they work in depth
+- 📖 Constantly reading and learning new concepts
+- ⚡ #Hobbies: cooking, gym, experimenting with new exploits
