@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**sabriozturk-0x/sabriozturk-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sabri, an Offensive Security Engineer based in Germany.
 
-Here are some ideas to get you started:
+I focus on web application security, with hands-on experience around the OWASP Top 10.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a profile, where I'll be uploading some projects and things I'm currently working on.
+
+---
+
+## 🛠 Tools
+- Burp Suite, OWASP ZAP
+- Nmap, Wireshark
+- sqlmap, GoPhish
+
+---
+
+## ⚡ A Bit About Me
+- ☕ Coffee enthusiast
+- 📖 Constantly learning and exploring new concepts
+- 🎌 Into anime — *Neon Genesis Evangelion* is my favorite
+- ⚡ I enjoy experimenting with new exploits and understanding how they work in depth
