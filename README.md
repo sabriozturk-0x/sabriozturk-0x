@@ -18,4 +18,4 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 ## ⚡ A Bit About Me
 - ☕ Coffee person
 - 📖 Constantly reading and learning new concepts
-- ⚡ # Hobbies: cooking, gym, experimenting with new exploits
+- ⚡ Hobbies: cooking, gym, experimenting with new exploits
