@@ -17,6 +17,6 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 
 ## ⚡ A Bit About Me
 - ☕ Coffee person
-- 🏃 I run 10 km in an hour
+- 🏃 Running 10 km in an hour
 - 📖 Constantly reading and learning new concepts
 - ⚡ Hobbies: gym, cooking, experimenting with new exploits
