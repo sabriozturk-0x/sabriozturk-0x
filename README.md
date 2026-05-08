@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Sabri, an Offensive Security Engineer based in Germany.
+I'm Sabri, an Application Security Engineer based in Germany.
 
-I focus on web application security, with hands-on experience around the OWASP Top 10.
+I focus on offensive web application security, vulnerability research, and hands-on testing around the OWASP Top 10.
 
 This is a profile, where I'll be uploading some projects and things I'm currently working on.
 
