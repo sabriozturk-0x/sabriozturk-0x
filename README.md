@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-I'm Sabri, an Application Security Engineer based in Germany.
+I'm Sabri, an Cyber Security Engineer based in Germany.
 
-I focus on offensive web application security, vulnerability research, and hands-on testing around the OWASP Top 10.
+I focus focused on penetration testing and application security.
 
 This is a profile, where I'll be uploading some projects and things I'm currently working on.
 
 ---
 
 ## 🛠 Tools
-- Burp Suite, OWASP ZAP
+- Burp Suite, ZAP
 - Nmap, Wireshark
-- sqlmap, GoPhish
+- Nessus, Nuclei
+- Metasploit, Docker
+- JUnit, Git
 
 ---
 
@@ -19,4 +21,4 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 - ☕ Coffee person
 - 🏃 Running 10 km in an hour
 - 📖 Constantly reading and learning new concepts
-- ⚡ Hobbies: gym, cooking, experimenting with new exploits
+- ⚡ Hobbies: gym, soccer, cooking, reading and learning new concepts
