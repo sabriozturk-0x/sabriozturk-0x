@@ -20,5 +20,5 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 ## ⚡ A Bit About Me
 - ☕ Coffee person
 - 🏃 Running 10 km in an hour
+- ⚡ Hobbies: Football, Martial Arts
 - 📖 Constantly reading and learning new concepts
-- ⚡ Hobbies: gym, soccer, cooking, reading and learning new concepts
