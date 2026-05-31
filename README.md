@@ -13,7 +13,7 @@ This is a profile, where I'll be uploading some projects and things I'm currentl
 - Nmap, Wireshark
 - Nessus, Nuclei
 - Metasploit, Docker
-- JUnit, Git
+- JUnit
 
 ---
 
