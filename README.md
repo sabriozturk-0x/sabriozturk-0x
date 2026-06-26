@@ -2,7 +2,7 @@
 
 I'm Sabri, an Cyber Security Engineer based in Germany.
 
-I focus focused on penetration testing and application security.
+I focus focused on security operations, penetration testing and application security.
 
 This is a profile, where I'll be uploading some projects and things I'm currently working on.
 
